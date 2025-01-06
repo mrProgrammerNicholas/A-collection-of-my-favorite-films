@@ -29,7 +29,7 @@ body {
   /* Стиль карточки */
   .card {
     width: 100%;
-    max-width: 300px;
+    max-width: 310px;
     height: 450px;
     margin: 0 auto;
     position: relative;
